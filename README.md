@@ -2,7 +2,7 @@
 This is custom function and script for converting csv data from Investing.com to the xts format in R.
 
 -----------------------------------------------------------------------------------------------------------------
-Having collected our price- or yield data from Investing.com, the next step in the worflow might be to convert these
+Having collected our price- or yield data from Investing.com, the next step in the workflow might be to convert these
 to a format more amenable to deeper analysis. Specifically, within R using the quantmod package we have access to
 a wide range of functions and analytical methods that have been built by the R community.
 
