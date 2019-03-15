@@ -34,4 +34,4 @@ In opening this script, please note the novel syntax R uses for file paths, as i
 you'll find that it isn't a simple copy and paste of the file path, but a novel file path syntax unique to R.
 
 Note: A small LinkedIn article was made discussing the use of the function employed in this script. If additional guidance
-might be necessary, the function is discussed further here [LinkedIn](https://www.linkedin.com/pulse/converting-csv-data-xts-use-r-franklin-monzon/).
+might be necessary, the function is discussed further [here](https://www.linkedin.com/pulse/converting-csv-data-xts-use-r-franklin-monzon/).
