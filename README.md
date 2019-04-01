@@ -19,7 +19,7 @@ The program itself was built using [R](https://cran.r-project.org/) version 3.3.
 To get quantmod, you might run,
 
 ```
-install.packages(quantmod)
+install.packages("quantmod")
 ```
 
 As for the use of the program, the entire script can be run by quadruple clicking the text and running it within R,
